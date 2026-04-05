@@ -7,7 +7,7 @@
 <hr>
 
 ### 👋 Hello! I'm **Elhocine Trilli** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
+A student passionate about programming 🚀. Currently learning **C#**, **SQL** and problem-solving using **Visual Studio** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
 ---
@@ -42,7 +42,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 🎯 Currently Working On 
 - **Abu-Hadhoud Roadmap**
-- Mastering **C#** & **OOP** 💡  
+- Mastering **C#** & **SQL** 💡  
 - Algorithms and Problem Solving  
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
