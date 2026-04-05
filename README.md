@@ -29,15 +29,15 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 12 - Data Structures – Level 1 (Programming Advices)
-- Completed 11+ courses in Abu-Hadhoud Roadmap (Programming Advices) within 8 months
-- Solved 500+ programming problems
+- 14 - C# - Level 1 (Programming Advices)
+- Completed 13+ courses in Abu-Hadhoud Roadmap (Programming Advices) within 9 months
+- Solved 600+ programming problems
 
 ---
 
 ### 🎯 Currently Working On 
 - **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
+- Mastering **C#** & **OOP** 💡  
 - Algorithms and Problem Solving  
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
