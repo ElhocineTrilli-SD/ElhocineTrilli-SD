@@ -31,21 +31,23 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 - [Project 3 ( Banking System ) procedural programming ](https://github.com/HusseinTrilli-DEV/Project-03-Bank-System.git)
 - [Project 4 ( ATM System _) procedural programming ](https://github.com/HusseinTrilli-DEV/Project-04-ATM-System.git)
 - [Project 5 ( bank System _) My First Project With OOP ](https://github.com/ElhocineTrilli-SD/Project-05-Bank-system-OOP.git)
-- [Project 6 ( tic tac toe Game _)](https://github.com/ElhocineTrilli-SD/Project-06-Tic-Tac-Toe-Game.git)
+- [Project 6 ( tic tac toe Game _)  ](https://github.com/ElhocineTrilli-SD/Project-06-Tic-Tac-Toe-Game.git)
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 14 - C# - Level 1 (Programming Advices)
-- Completed 13+ courses in Abu-Hadhoud Roadmap (Programming Advices) within 9 months
-- Solved 600+ programming problems
+-  Finished 13+ courses from AbouHadhoud Roadmap 📘
+-  Solved 400+ programming problems 💪
+-  Strong foundation in C++, OOP,C#, .net , database desighn , SQLServer , problem solving, algorithms
+-  Started building Desktop Applications using C# (.net windowsform).
 
 ---
 
 ### 🎯 Currently Working On 
-- **Abu-Hadhoud Roadmap**
-- Mastering **C#** & **SQL** 💡  
+- completing Abou-Hadhoud Roadmap
+- Mastering C# , Sql ,  💡
+- Learning .NET Framework (Windows Forms) practically
 - Algorithms and Problem Solving  
-- Practicing with small projects 🛠️  
+- Building more projects for practice 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
 
 ---
