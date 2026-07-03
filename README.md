@@ -36,7 +36,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
--  Finished 13+ courses from AbouHadhoud Roadmap 📘
+-  Finished 19+ courses from AbouHadhoud Roadmap 📘
 -  Solved 400+ programming problems 💪
 -  Strong foundation in C++, OOP,C#, .net , database desighn , SQLServer , problem solving, algorithms
 -  Started building Desktop Applications using C# (.net windowsform).
